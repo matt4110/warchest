@@ -1,0 +1,175 @@
+/* 
+    Created on : Oct 24, 2015, 12:56:58 PM
+    Author     : Adake
+*/
+
+/*
+Theme Name:     iwearchange (Twenty Thirteen Child) 
+Theme URI:      http://warchestboutique.com
+Description:    This is a custom child theme based off of the Twentythirteen, made for the #iwearchange campaign in time square (Oct 26-Nov 02, 2015).
+Author:         Aaron
+Author URI:     http://example.com/about/
+Template:       twentythirteen
+Version:        0.1.0
+*/
+
+@import url("../twentythirteen/style.css");
+
+#main {clear:both;}
+
+.entry-content img.alignright, .entry-content .wp-caption.alignright {margin-right:0}
+.entry-content {max-width: 604px !important; padding:0 !important;}
+.widget-title {display:none;}
+#enjoyinstagram_widget_slider-2 {width:100%; background:transparent;}
+#swipebox-caption { display:none;   line-height: 1.5em;    top: 0; margin-top:0px; padding-top:0px;}
+body { 
+     background: #f5f5f5 url("/wp-content/uploads/2014/02/bg.png") repeat; 
+ }
+ 
+ a, h1, h2, h3, p {
+	 transition: all 600ms ease-in-out;
+	 -webkit-transition: all 600ms ease-in-out;
+	 -moz-transition: all 600ms ease-in-out;
+	 -o-transition: all 600ms ease-in-out;
+}
+
+.site-header {
+			background: none !important;
+			background-color: transparent; 
+}
+
+.site {
+			background-color: transparent; 
+}
+
+
+#top-nav-wrapper {
+	text-align: center;
+	margin: 8px;
+}
+#top-nav {
+	padding: 0;
+	margin: 0;
+}
+#top-nav li {
+	display: inline;
+}
+
+#top-nav a {
+	color: #B69959;
+	padding: 12px;
+	font-size: 16px;
+	text-transform: uppercase;
+	font-family: "Times New Roman", Georgia, Serif;
+}
+#top-nav a:hover { background-color:#B69959; color:#fff; text-decoration:none; }
+
+#site-header {
+	width: 1000px;
+	margin: 0 auto;
+}
+
+#site-logo {
+	float: left;
+	width: 250px;
+}
+
+.entry-content img.alignleft  { margin-left: 0px; }
+
+.hentry {
+	padding: 0;
+}
+
+.instafoot-img {
+	float:left;
+}
+
+#followus-text {
+	color: #B69959; 
+	font-family: 'Times New Roman', Georgia, Serif; 
+	text-transform: uppercase;
+	display:inline-block; 
+	float:left; 
+	max-width:150px; 
+	text-align:justify; 
+	font-size:18px;
+}
+
+.title {
+	margin-top: 0;
+}
+
+#our-story {
+	list-style: none; 
+	text-align: center;
+	padding: 0;
+}
+
+#our-story img{
+	float:left;
+}
+
+.page-text {
+	background:rgba(255,255,255,0.5);
+	padding: 25px;
+}
+h1, h2, h3 a {
+	color: #B69959;
+	text-transform: uppercase;
+	font-family: "Times New Roman", Georgia, Serif;
+	text-align: center;
+	font-weight:100;
+}
+h1 {	font-size: 48px;}
+h2 {	font-size: 36px;}
+h3 {	font-size: 24px;}
+
+img.lookbook:hover {
+	box-shadow: 6px 6px 10px black;
+	margin-top: -3px;
+	margin-bottom: 3px;
+	margin-left: -3px;
+}
+
+img.lookbook {
+	box-shadow: 3px 3px 8px black;
+}
+
+img.top-lookbook {float:left;margin-right:40px;}
+img.top-lookbook:hover {margin-right:43px}
+
+.lookbook-heading {font-size: 28px; margin-top:60px; margin-bottom:30px;}
+
+.CaptionDivsInline div.wp-caption{
+	text-align: center;
+	display: table;
+	float: left;
+	clear: none !important;
+}
+
+@media only screen and (max-width: 1000px) { 
+	#site-logo {float:none; margin: 0 auto;}
+	#top-nav {clear:both;}
+	#site-header {width: 100%;}
+	h1 {	font-size: 34px;}
+	h2 {	font-size: 28px;}
+	h3 {	font-size: 22px;}
+	#followus-text {font-size: 12px; max-width:100px;}
+}
+
+@media only screen and (max-width: 725px) { 
+	#top-nav li a {font-size:14px; padding: 10px 5px;}
+	#our-story img { float:none; width:100%}
+	h1 {	font-size: 28px;}
+	h2 {	font-size: 22px;}
+	h3 {	font-size: 14px;}
+	.lookbook-heading {clear:left;}
+	img.top-lookbook {margin:20px auto; float: none; }
+	.top-lookbook-p {width:375px; margin: 0 auto; }
+	#followus-text {font-size: 10px; max-width:60px;}
+
+}
+
+
+
+

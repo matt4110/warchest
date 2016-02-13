@@ -1,0 +1,408 @@
+/*
+ Theme Name:   Twenty Fourteen Child
+ Theme URI:    http://example.com/twenty-fourteen-child/
+ Description:  Twenty Fourteen Child Theme
+ Author:       PJ Finger & Aaron Dake
+ Author URI:   http://example.com
+ Template:     twentyfourteen
+ Version:      1.0.0
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  twenty-fourteen-child
+*/
+
+@import url("../twentyfourteen/style.css");
+
+.site {width:100%}
+#main: {width:100%}
+
+img.hasborder {
+	border: 2px solid gainsboro;
+}
+.store-location{
+	background-color: white;
+	margin: 20px;
+	border-radius: 10px;
+	padding: 30px;
+	border: 2px solid gainsboro;
+}
+
+div.entry-content { 
+	max-width:900px !important;
+	/background-color: white !important;
+	line-height:1.3em !important;
+	margin-left:auto;
+	margin-right:auto;
+	/border: 1px solid #807272;
+	border-radius: 3px;
+	padding: 45px 60px !important;
+	/box-shadow: 10px 10px 10px #807272;
+	font-size:24px !important;
+}
+
+ul#GetInvolved{
+	padding: 20px;
+}
+
+div#preload { display: none; }
+
+div.HomeBlock {
+	display:block;
+	max-width: 835px;
+	height:750px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top: 40px;
+}
+
+div.HomeBlock img {
+	vertical-align: baseline;
+}
+
+div.HomeColumn {
+	width: 30%;
+	display: inline-block;
+	padding: 3px;
+	text-align:center;
+}
+
+div.HomeColumn img {
+	margin-top: 5px;
+	max-width: 100%;
+}
+
+/*
+img#HomeButton01, img#HomeButton03, img#HomeButton05, img#HomeButton07, img#HomeButton09 {
+	width: 100%;
+	//height: 152px;
+}
+
+img#HomeButton02, img#HomeButton08 {
+	width: 100%;
+	//height: 259px;
+}
+
+img#HomeButton04, img#HomeButton06 {
+	width: 100%;
+	//height: 366px;
+}
+*/
+#HomeButton01:hover, #HomeButton03:hover, #HomeButton05:hover, #HomeButton07:hover, #HomeButton09:hover {
+	box-shadow: 0px 0px 20px 5px #888888;
+}
+
+/*
+div#LookBookDiv {
+	max-width:1440px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-bottom:20px;
+	margin-top: 20px;
+}
+
+div.LookBook {
+	float: left;
+	margin:10px;
+}
+*/
+img.lookbook:hover {
+	box-shadow: 6px 6px 10px black;
+	margin-left: -3px;
+	margin-top: -3px;
+	margin-bottom: 3px;
+}
+
+img.lookbook {
+	box-shadow: 3px 3px 8px black;
+}
+
+#cboxClose {
+	padding: 0px;
+}
+/*
+div#StoreLocations {
+	width:1000px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: white;
+	border: solid 2px black;
+	border-radius:5px;
+	padding:3px;
+	font-size: 200%;
+}*/
+
+
+.wp-caption-text{
+	font-size: 20px;
+	text-align: center;
+}
+
+.CaptionDivsInline div.wp-caption{
+	display: table;
+	float: left;
+	clear: none !important;
+}
+/*
+div#OurStory {
+	width:800px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color:white;
+	background-repeat: no-repeat;
+	background-size: cover;
+	border: solid black 2px;
+	border-radius: 5px;
+	font-size: 20px;
+}
+*/
+
+#main {clear:both;}
+
+div#OurStory p:first-letter {
+}
+
+#lbp-history-href, #lbp-about-href {
+	font-size:18px;
+}
+
+#GetInvolved {
+	max-width:818px;
+	margin-left: auto;
+	margin-right: auto;
+	list-style:none;
+}
+
+#OurStory {
+	width:600px;
+	margin-left: auto;
+	margin-right: auto;
+	list-style:none;
+}
+
+#GetInvolved li, #OurStory li{
+	position: relative;
+	display:inline;
+	float:left;
+	padding: 0px;
+	margin: 0px;
+	z-index: 1;
+}
+
+#GetInvolved li img.growable, #OurStory li img.growable {
+	
+}
+
+#GetInvolved li:hover img.growable, #OurStory li:hover img.growable {
+	opacity:0.8;
+}
+
+.BuzzBlock, .BuzzBlock2, .BuzzBlock3, .BuzzBlock4 {
+	display:block;
+	width: 830px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top: 40px;
+}
+
+.BuzzBlock {
+	height:330px;
+}
+
+.BuzzBlock2 {
+	height: 250;
+}
+
+div.BuzzBlock4 > div{
+	text-align:center;
+	width:272px;
+	float:left;
+	margin-bottom:20px;
+}
+
+.BuzzBlock a:hover, .BuzzBlock2 a:hover, .BuzzBlock3 a:hover, .BuzzBlock4 a:hover {
+	opacity:0.8;
+}
+
+.BuzzBlockText {
+	width: 830px;
+	font-size: 18px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+div#StoreLocationsSD {
+	width: 700px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: white;
+	border: solid 2px black;
+	border-radius:5px;
+	padding:3px;
+	color:black !important;
+	background-color:white !important;
+	text-align:center;
+	line-height:.7em;
+}
+
+div.StoreLocationSlide {
+	color:black;
+	background-color:white;
+	font-size:14px;
+	padding:10px;
+}
+
+.lens-classic dl.slidedeck > dd {
+	background: none repeat scroll center center / cover white !important;
+	overflow-y:auto !important;
+}
+ 
+.sd2-spine-inner {
+	padding: 2px !important;
+}
+
+
+.primary-navigation a {
+	color:black;
+}
+
+#top-nav-wrapper{
+	//width: 750px;
+	position:absolute;
+	/*
+	This part makes the div float center!
+	left:0;
+	right:0;
+	margin-left:auto;
+	margin-right:auto;*/
+	left: 163px;
+	top: -13px;
+}
+
+
+#top-nav {
+	margin-right: 0px;
+	margin-left:70px;
+}
+
+#top-nav li {
+	float:left;
+	list-style:none;
+}
+#top-nav a {
+	line-height: 35px;
+	color:#B69959;
+	padding: 12px 12px;
+    font-size: 16px;
+    text-transform: uppercase;
+    font-family: serif;
+}
+
+#top-nav a:hover {
+	background-color:#B69959;
+	color:#fff;
+	text-decoration:none;
+}
+
+.site-footer{
+	list-style: none;
+	margin-left: 0px;
+	width: 100%;
+	//margin-left: auto;
+	//margin-right: auto;
+	background-color:#F5F5F5;
+	font-family: sans-serif;
+	font-size: 12px;
+}
+
+.site-footer a {
+	color: #798174;
+}
+
+.site-footer a:hover {
+	color: grey;
+}
+
+.footer-links {
+	padding: 50px;
+	float: left;
+}
+
+.footer-links>li>span {
+	color: #666;
+	font-size: 16px;
+	margin-bottom: 10px;
+	display:block;
+}
+
+.site-footer ul {
+	list-style: none;
+	margin: 0px;
+	padding-left: 0px;
+	line-height: 30px;
+}
+
+div#footer-inner{
+	max-width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+div.footer-links {
+	//margin-right: 30px !important;
+	//margin-left: 30px !important;
+}
+
+div#custom-footer span {
+	font-size:18px;
+	color: #798174;
+}
+
+/*
+div#custom-footer li>ul>li>a {
+	margin-left: -60px !important;
+}
+
+#custom-footer li, ul {
+	padding-top:5px;
+	list-style: none;
+}
+*/
+
+ul.footer-social span {
+	margin-left:30px; line-height: 30px; font-size: 12px; display: block; color: #798174;
+}
+
+ul.footer-social img {
+	float:left; margin-top:8px;
+}
+
+h1.entry-title {
+	font-size: 38pt;
+	text-align: center;
+	text-transform: uppercase;
+	color: #C19563 !important;
+	font-family: Garamond,Georgia,"Bitstream Charter",serif;
+}
+
+#site-header{
+	margin-top: -7px;
+	margin-left: 10px;
+}
+
+/* Remove Fixed Header */
+.masthead-fixed .site-header {
+	position: absolute;
+	top: 0;
+}
+
+.admin-bar.masthead-fixed .site-header {
+	top: 32px;
+}
+
+.masthead-fixed .site-main {
+	margin-top: 48px;
+}
+
+#masthead {
+	position:relative;
+}

@@ -1,0 +1,48 @@
+[24-Jan-2015 08:58:39] PHP Fatal error:  Call to undefined function  do_action() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/elements/_options-lenses.php on line 1
+[24-Jan-2015 10:14:26] PHP Fatal error:  Call to undefined function  _e() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/elements/_widget-form.php on line 34
+[25-Jan-2015 05:01:11] PHP Fatal error:  Call to undefined function  do_action() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/elements/_options-lenses.php on line 1
+[25-Jan-2015 05:02:05] PHP Fatal error:  Call to undefined function  do_action() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/elements/_options.php on line 35
+[25-Jan-2015 05:02:22] PHP Fatal error:  Call to undefined function  _e() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/elements/_support-modal.php on line 3
+[25-Jan-2015 05:02:27] PHP Warning:  Invalid argument supplied for foreach() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/elements/_pointers.php on line 38
+[25-Jan-2015 05:02:32] PHP Warning:  Invalid argument supplied for foreach() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/elements/_blog-feed.php on line 36
+[25-Jan-2015 05:02:56] PHP Fatal error:  Call to undefined function  wp_create_nonce() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/elements/_upgrade_button.php on line 1
+[25-Jan-2015 05:03:34] PHP Fatal error:  Call to undefined function  _e() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/elements/_no-content-found.php on line 37
+[25-Jan-2015 05:03:39] PHP Fatal error:  Call to undefined function  _e() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/elements/_manage-table.php on line 94
+[25-Jan-2015 05:03:40] PHP Fatal error:  Call to undefined function  slidedeck2_action() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/elements/_create-custom-slidedeck-block.php on line 11
+[25-Jan-2015 05:03:42] PHP Warning:  Invalid argument supplied for foreach() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/elements/_insert-iframe-table.php on line 37
+[25-Jan-2015 05:03:56] PHP Fatal error:  Call to undefined function  _e() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/elements/_anonymous-stats-optin-modal.php on line 3
+[25-Jan-2015 05:04:25] PHP Fatal error:  Call to undefined function  get_avatar() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/elements/_lens.php on line 54
+[25-Jan-2015 05:04:52] PHP Fatal error:  Call to undefined function  _e() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/elements/_source-modal.php on line 34
+[25-Jan-2015 05:04:53] PHP Fatal error:  Call to undefined function  esc_attr() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/elements/_back-cover.php on line 46
+[25-Jan-2015 05:04:53] PHP Fatal error:  Call to undefined function  admin_url() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/elements/_create-dynamic-slidedeck-block.php on line 5
+[25-Jan-2015 05:04:56] PHP Warning:  Invalid argument supplied for foreach() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/elements/_sources.php on line 1
+[25-Jan-2015 05:04:56] PHP Fatal error:  Call to undefined function  admin_url() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/elements/_sources.php on line 27
+[25-Jan-2015 10:42:35] PHP Fatal error:  Call to undefined function  do_action() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/elements/_options-lenses.php on line 1
+[25-Jan-2015 22:33:27] PHP Fatal error:  Call to undefined function  do_action() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/elements/_options-lenses.php on line 1
+[26-Jan-2015 01:55:22] PHP Fatal error:  Call to undefined function  do_action() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/elements/_options-lenses.php on line 1
+[27-Jan-2015 10:59:39] PHP Fatal error:  Call to undefined function  do_action() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/elements/_options.php on line 35
+[27-Jan-2015 13:58:46] PHP Fatal error:  Call to undefined function  _e() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/elements/_support-modal.php on line 3
+[27-Jan-2015 18:34:09] PHP Warning:  Invalid argument supplied for foreach() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/elements/_pointers.php on line 38
+[27-Jan-2015 19:49:57] PHP Warning:  Invalid argument supplied for foreach() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/elements/_blog-feed.php on line 36
+[28-Jan-2015 00:46:06] PHP Fatal error:  Call to undefined function  wp_create_nonce() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/elements/_upgrade_button.php on line 1
+[28-Jan-2015 04:33:28] PHP Fatal error:  Call to undefined function  _e() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/elements/_no-content-found.php on line 37
+[28-Jan-2015 23:11:22] PHP Fatal error:  Call to undefined function  _e() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/elements/_manage-table.php on line 94
+[29-Jan-2015 06:46:06] PHP Fatal error:  Call to undefined function  slidedeck2_action() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/elements/_create-custom-slidedeck-block.php on line 11
+[29-Jan-2015 08:01:54] PHP Warning:  Invalid argument supplied for foreach() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/elements/_insert-iframe-table.php on line 37
+[29-Jan-2015 15:36:38] PHP Fatal error:  Call to undefined function  _e() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/elements/_anonymous-stats-optin-modal.php on line 3
+[30-Jan-2015 08:01:54] PHP Fatal error:  Call to undefined function  get_avatar() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/elements/_lens.php on line 54
+[30-Jan-2015 18:01:34] PHP Fatal error:  Call to undefined function  _e() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/elements/_source-modal.php on line 34
+[30-Jan-2015 18:02:32] PHP Fatal error:  Call to undefined function  esc_attr() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/elements/_back-cover.php on line 46
+[30-Jan-2015 18:03:36] PHP Fatal error:  Call to undefined function  admin_url() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/elements/_create-dynamic-slidedeck-block.php on line 5
+[30-Jan-2015 18:04:41] PHP Warning:  Invalid argument supplied for foreach() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/elements/_sources.php on line 1
+[30-Jan-2015 18:04:41] PHP Fatal error:  Call to undefined function  admin_url() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/elements/_sources.php on line 27
+[01-Mar-2015 16:23:23] PHP Warning:  Invalid argument supplied for foreach() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/elements/_pointers.php on line 38
+[11-May-2015 12:31:46] PHP Warning:  Invalid argument supplied for foreach() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/elements/_insert-iframe-table.php on line 37
+[12-May-2015 00:31:39] PHP Fatal error:  Call to undefined function  esc_attr() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/elements/_back-cover.php on line 46
+[13-May-2015 19:15:35] PHP Warning:  Invalid argument supplied for foreach() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/elements/_pointers.php on line 38
+[15-May-2015 16:24:42] PHP Fatal error:  Call to undefined function  _e() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/elements/_no-content-found.php on line 37
+[16-May-2015 00:30:36] PHP Warning:  Invalid argument supplied for foreach() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/elements/_sources.php on line 1
+[16-May-2015 00:30:36] PHP Fatal error:  Call to undefined function  admin_url() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/elements/_sources.php on line 27
+[16-May-2015 13:42:37] PHP Fatal error:  Call to undefined function  _e() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/elements/_source-modal.php on line 34
+[17-May-2015 07:00:59] PHP Fatal error:  Call to undefined function  _e() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/elements/_manage-table.php on line 94
+[18-May-2015 20:15:18] PHP Fatal error:  Call to undefined function  do_action() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/elements/_options.php on line 35

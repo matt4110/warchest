@@ -1,0 +1,11 @@
+[25-Jan-2015 05:05:34] PHP Fatal error:  Call to undefined function  is_taxonomy_hierarchical() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/sources/posts/views/_available_terms.php on line 34
+[25-Jan-2015 05:09:24] PHP Fatal error:  Using $this when not in object context in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/sources/posts/views/show.php on line 36
+[25-Jan-2015 10:41:44] PHP Fatal error:  Call to undefined function  is_taxonomy_hierarchical() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/sources/posts/views/_available_terms.php on line 34
+[25-Jan-2015 16:33:55] PHP Fatal error:  Call to undefined function  is_taxonomy_hierarchical() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/sources/posts/views/_available_terms.php on line 34
+[25-Jan-2015 22:40:39] PHP Fatal error:  Call to undefined function  is_taxonomy_hierarchical() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/sources/posts/views/_available_terms.php on line 34
+[26-Jan-2015 04:35:46] PHP Fatal error:  Call to undefined function  is_taxonomy_hierarchical() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/sources/posts/views/_available_terms.php on line 34
+[01-Feb-2015 05:29:21] PHP Fatal error:  Call to undefined function  is_taxonomy_hierarchical() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/sources/posts/views/_available_terms.php on line 34
+[01-Feb-2015 13:04:06] PHP Fatal error:  Call to undefined function  is_taxonomy_hierarchical() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/sources/posts/views/_available_terms.php on line 34
+[01-Feb-2015 20:38:50] PHP Fatal error:  Call to undefined function  is_taxonomy_hierarchical() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/sources/posts/views/_available_terms.php on line 34
+[02-Feb-2015 01:41:59] PHP Fatal error:  Using $this when not in object context in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/sources/posts/views/show.php on line 36
+[02-Feb-2015 02:57:47] PHP Fatal error:  Call to undefined function  is_taxonomy_hierarchical() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/sources/posts/views/_available_terms.php on line 34

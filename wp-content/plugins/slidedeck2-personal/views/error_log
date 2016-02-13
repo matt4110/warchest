@@ -1,0 +1,74 @@
+[08-Nov-2014 09:04:46] PHP Fatal error:  Call to undefined function  _e() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/first-save-dialog.php on line 35
+[08-Nov-2014 09:04:46] PHP Fatal error:  Call to undefined function  do_action() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/form.php on line 34
+[08-Nov-2014 09:04:46] PHP Fatal error:  Call to undefined function  slidedeck2_flash() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/admin-upgrades.php on line 35
+[08-Nov-2014 09:04:46] PHP Fatal error:  Call to undefined function  slidedeck2_flash() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/admin-options.php on line 35
+[08-Nov-2014 09:04:46] PHP Fatal error:  Call to undefined function  _e() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/getcode-dialog.php on line 35
+[08-Nov-2014 09:04:46] PHP Fatal error:  Call to undefined function  _e() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/cover-modal.php on line 35
+[08-Nov-2014 09:04:46] PHP Warning:  Invalid argument supplied for foreach() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/preview-iframe.php on line 48
+[08-Nov-2014 09:04:46] PHP Fatal error:  Using $this when not in object context in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/preview-iframe.php on line 82
+[08-Nov-2014 09:04:46] PHP Fatal error:  Call to undefined function  _e() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/gplus-posts-how-to.php on line 40
+[08-Nov-2014 09:04:46] PHP Fatal error:  Call to undefined function  slidedeck() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/preview.php on line 37
+[08-Nov-2014 09:04:46] PHP Fatal error:  Call to undefined function  slidedeck2_flash() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/manage.php on line 35
+[08-Nov-2014 09:04:46] PHP Fatal error:  Call to undefined function  language_attributes() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/insert-iframe.php on line 35
+[23-Jan-2015 03:48:07] PHP Fatal error:  Call to undefined function  do_action() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/form.php on line 34
+[23-Jan-2015 03:48:20] PHP Fatal error:  Call to undefined function  slidedeck2_flash() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/manage.php on line 35
+[23-Jan-2015 03:48:48] PHP Fatal error:  Call to undefined function  slidedeck() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/preview.php on line 37
+[23-Jan-2015 03:49:29] PHP Fatal error:  Call to undefined function  _e() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/cover-modal.php on line 35
+[23-Jan-2015 03:50:10] PHP Fatal error:  Call to undefined function  slidedeck2_flash() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/admin-options.php on line 35
+[23-Jan-2015 03:50:24] PHP Fatal error:  Call to undefined function  language_attributes() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/insert-iframe.php on line 35
+[23-Jan-2015 03:50:52] PHP Warning:  Invalid argument supplied for foreach() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/preview-iframe.php on line 48
+[23-Jan-2015 03:50:52] PHP Fatal error:  Using $this when not in object context in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/preview-iframe.php on line 82
+[23-Jan-2015 03:51:06] PHP Fatal error:  Call to undefined function  _e() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/getcode-dialog.php on line 35
+[23-Jan-2015 03:51:20] PHP Fatal error:  Call to undefined function  slidedeck2_flash() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/admin-upgrades.php on line 35
+[23-Jan-2015 03:52:02] PHP Fatal error:  Call to undefined function  _e() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/first-save-dialog.php on line 35
+[23-Jan-2015 08:52:43] PHP Fatal error:  Call to undefined function  _e() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/gplus-posts-how-to.php on line 40
+[23-Jan-2015 18:46:24] PHP Fatal error:  Call to undefined function  do_action() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/form.php on line 34
+[24-Jan-2015 03:55:29] PHP Fatal error:  Call to undefined function  do_action() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/form.php on line 34
+[25-Jan-2015 04:56:06] PHP Fatal error:  Call to undefined function  do_action() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/form.php on line 34
+[25-Jan-2015 04:56:17] PHP Fatal error:  Call to undefined function  slidedeck2_flash() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/manage.php on line 35
+[25-Jan-2015 04:56:17] PHP Fatal error:  Call to undefined function  slidedeck() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/preview.php on line 37
+[25-Jan-2015 04:56:20] PHP Fatal error:  Call to undefined function  _e() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/cover-modal.php on line 35
+[25-Jan-2015 04:56:23] PHP Fatal error:  Call to undefined function  slidedeck2_flash() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/admin-options.php on line 35
+[25-Jan-2015 04:56:30] PHP Fatal error:  Call to undefined function  language_attributes() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/insert-iframe.php on line 35
+[25-Jan-2015 04:56:37] PHP Warning:  Invalid argument supplied for foreach() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/preview-iframe.php on line 48
+[25-Jan-2015 04:56:37] PHP Fatal error:  Using $this when not in object context in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/preview-iframe.php on line 82
+[25-Jan-2015 04:56:44] PHP Fatal error:  Call to undefined function  _e() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/getcode-dialog.php on line 35
+[25-Jan-2015 04:56:51] PHP Fatal error:  Call to undefined function  slidedeck2_flash() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/admin-upgrades.php on line 35
+[25-Jan-2015 04:56:59] PHP Fatal error:  Call to undefined function  _e() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/first-save-dialog.php on line 35
+[25-Jan-2015 04:57:06] PHP Fatal error:  Call to undefined function  _e() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/gplus-posts-how-to.php on line 40
+[25-Jan-2015 05:01:41] PHP Warning:  Invalid argument supplied for foreach() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/preview-iframe.php on line 48
+[25-Jan-2015 05:01:41] PHP Fatal error:  Using $this when not in object context in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/preview-iframe.php on line 82
+[25-Jan-2015 05:01:42] PHP Warning:  Invalid argument supplied for foreach() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/preview-iframe.php on line 48
+[25-Jan-2015 05:01:42] PHP Fatal error:  Using $this when not in object context in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/preview-iframe.php on line 82
+[25-Jan-2015 10:42:04] PHP Fatal error:  Call to undefined function  do_action() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/form.php on line 34
+[25-Jan-2015 16:35:30] PHP Fatal error:  Call to undefined function  do_action() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/form.php on line 34
+[25-Jan-2015 22:38:57] PHP Fatal error:  Call to undefined function  do_action() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/form.php on line 34
+[26-Jan-2015 08:08:50] PHP Warning:  Invalid argument supplied for foreach() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/preview-iframe.php on line 48
+[26-Jan-2015 08:08:50] PHP Fatal error:  Using $this when not in object context in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/preview-iframe.php on line 82
+[26-Jan-2015 10:17:53] PHP Fatal error:  Call to undefined function  _e() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/gplus-posts-how-to.php on line 40
+[28-Jan-2015 14:32:48] PHP Fatal error:  Call to undefined function  slidedeck2_flash() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/admin-upgrades.php on line 35
+[28-Jan-2015 18:46:02] PHP Fatal error:  Call to undefined function  slidedeck2_flash() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/manage.php on line 35
+[28-Jan-2015 22:42:51] PHP Fatal error:  Call to undefined function  do_action() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/form.php on line 34
+[29-Jan-2015 17:02:25] PHP Fatal error:  Call to undefined function  slidedeck() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/preview.php on line 37
+[29-Jan-2015 18:57:10] PHP Fatal error:  Call to undefined function  _e() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/first-save-dialog.php on line 35
+[29-Jan-2015 20:13:21] PHP Fatal error:  Call to undefined function  _e() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/cover-modal.php on line 35
+[13-Feb-2015 00:52:56] PHP Warning:  Invalid argument supplied for foreach() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/preview-iframe.php on line 48
+[13-Feb-2015 00:52:56] PHP Fatal error:  Using $this when not in object context in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/preview-iframe.php on line 82
+[13-Feb-2015 00:52:57] PHP Warning:  Invalid argument supplied for foreach() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/preview-iframe.php on line 48
+[13-Feb-2015 00:52:57] PHP Fatal error:  Using $this when not in object context in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/preview-iframe.php on line 82
+[12-Mar-2015 17:37:41] PHP Warning:  Invalid argument supplied for foreach() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/preview-iframe.php on line 48
+[12-Mar-2015 17:37:41] PHP Fatal error:  Using $this when not in object context in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/preview-iframe.php on line 82
+[14-Mar-2015 18:26:08] PHP Warning:  Invalid argument supplied for foreach() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/preview-iframe.php on line 48
+[14-Mar-2015 18:26:08] PHP Fatal error:  Using $this when not in object context in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/preview-iframe.php on line 82
+[14-Mar-2015 18:26:09] PHP Warning:  Invalid argument supplied for foreach() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/preview-iframe.php on line 48
+[14-Mar-2015 18:26:09] PHP Fatal error:  Using $this when not in object context in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/preview-iframe.php on line 82
+[25-Mar-2015 17:00:58] PHP Fatal error:  Call to undefined function  _e() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/gplus-posts-how-to.php on line 40
+[30-Apr-2015 13:03:28] PHP Fatal error:  Call to undefined function  slidedeck2_flash() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/manage.php on line 35
+[01-May-2015 15:53:22] PHP Fatal error:  Call to undefined function  _e() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/getcode-dialog.php on line 35
+[01-May-2015 21:28:33] PHP Fatal error:  Call to undefined function  slidedeck() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/preview.php on line 37
+[02-May-2015 14:34:58] PHP Fatal error:  Call to undefined function  _e() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/gplus-posts-how-to.php on line 40
+[03-May-2015 23:34:22] PHP Fatal error:  Call to undefined function  slidedeck2_flash() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/admin-options.php on line 35
+[04-May-2015 20:01:41] PHP Fatal error:  Call to undefined function  _e() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/first-save-dialog.php on line 35
+[04-May-2015 23:30:11] PHP Fatal error:  Call to undefined function  language_attributes() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/insert-iframe.php on line 35
+[10-May-2015 16:13:22] PHP Fatal error:  Call to undefined function  _e() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/cover-modal.php on line 35
+[11-May-2015 12:28:37] PHP Fatal error:  Call to undefined function  do_action() in /home3/warchest/public_html/wp-content/plugins/slidedeck2-personal/views/form.php on line 34
