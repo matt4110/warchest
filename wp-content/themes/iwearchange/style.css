@@ -18,7 +18,6 @@ Version:        0.1.0
 #main {clear:both;}
 
 .entry-content img.alignright, .entry-content .wp-caption.alignright {margin-right:0}
-.entry-content {max-width: 604px !important; padding:0 !important;}
 .widget-title {display:none;}
 #enjoyinstagram_widget_slider-2 {width:100%; background:transparent;}
 #swipebox-caption { display:none;   line-height: 1.5em;    top: 0; margin-top:0px; padding-top:0px;}
@@ -42,6 +41,15 @@ body {
 			background-color: transparent; 
 }
 
+
+.entry-header,
+.entry-content,
+.entry-summary,
+.entry-meta {
+	margin: 0 auto;
+	width: 640px;
+	max-width: 100%;
+}
 
 #top-nav-wrapper {
 	text-align: center;
@@ -113,16 +121,18 @@ body {
 	background:rgba(255,255,255,0.5);
 	padding: 25px;
 }
-h1, h2, h3 a {
+h1, h2, h3 a, h4 {
 	color: #B69959;
 	text-transform: uppercase;
 	font-family: "Times New Roman", Georgia, Serif;
 	text-align: center;
 	font-weight:100;
 }
-h1 {	font-size: 48px;}
-h2 {	font-size: 36px;}
-h3 {	font-size: 24px;}
+
+h1 {font-size: 48px;}
+h2 {font-size: 36px;}
+h3 {font-size: 24px;}
+h4 {font-size: 18px;}
 
 img.lookbook:hover {
 	box-shadow: 6px 6px 10px black;
@@ -169,6 +179,320 @@ img.top-lookbook:hover {margin-right:43px}
 	#followus-text {font-size: 10px; max-width:60px;}
 
 }
+
+
+/*----------------------------------------------------------------
+------------------------------------------------------------------
+------------------------------------------------------------------
+-------------------------2 Column layout--------------------------
+------------------------------------------------------------------
+------------------------------------------------------------------
+----------------------------------------------------------------*/
+.entry-content2 img.alignright, .entry-content2 .wp-caption.alignright {
+	margin-right:0;
+}
+
+.entry-content2{
+	margin: 100px auto;
+	width: 900px;
+}
+
+.entry-content2 img.alignleft  { margin-left: 0px; }
+
+.format-status .entry-content2 .page-links a,.format-gallery .entry-content2 .page-links a,.format-chat .entry-content2 .page-links a,.format-quote .entry-content2 .page-links a,.page-links a {
+	background: #e63f2a;
+	border: 1px solid #e63f2a;
+	color: #fff;
+}
+
+.format-gallery .entry-content2 .page-links a:hover,
+.format-audio .entry-content2 .page-links a:hover,
+.format-status .entry-content2 .page-links a:hover,
+.format-video .entry-content2 .page-links a:hover,
+.format-chat .entry-content2 .page-links a:hover,
+.format-quote .entry-content2 .page-links a:hover,
+.page-links a:hover {
+	background: #fff;
+	color: #e63f2a;
+}
+
+.format-status .entry-content2 .page-links > span,
+.format-quote .entry-content2 .page-links > span {
+	background: none;
+}
+
+.format-audio .entry-content2:before {
+	content: "\f109";
+	float: left;
+	font-size: 64px;
+	position: relative;
+	top: 4px;
+}
+
+.format-audio .entry-content2 a,
+.format-audio .entry-meta a,
+.format-audio .entry-content2 a:hover,
+.format-audio .entry-meta a:hover {
+	color: #fbfaf3;
+}
+
+.format-chat .entry-content2 a {
+	color: #722d19;
+}
+
+.format-gallery .entry-content2 a {
+	color: #722d19;
+}
+
+.format-link .entry-content2 p:last-child {
+	margin-bottom: 0;
+}
+
+.format-quote .entry-content2 {
+	color: #f7f5e7;
+}
+
+.format-quote .entry-content2 blockquote {
+	font-size: 28px;
+	margin: 0;
+}
+
+.format-quote .entry-content2 a {
+	color: #e63f2a;
+}
+
+.format-quote .entry-content2 cite a {
+	border-bottom: 1px dotted #fff;
+	color: #fff;
+}
+
+.format-quote .entry-content2 cite a:hover {
+	text-decoration: none;
+}
+
+.format-status .entry-content2 {
+	padding-left: 35px;
+	position: relative;
+}
+
+.format-status .entry-content2 a {
+	color: #eadaa6;
+}
+
+.sidebar .format-status .entry-content2 {
+	padding-left: 95px;
+}
+
+.format-status .entry-content2:before {
+	background: url(images/dotted-line.png) repeat-y left bottom;
+	background-size: 4px 4px;
+	content: "";
+	display: block;
+	height: 100%;
+	position: absolute;
+	left: 10px;
+	top: 0;
+	width: 1px;
+}
+
+.sidebar .format-status .entry-content2:before {
+	left: 70px;
+}
+
+.format-status .entry-content2 {
+	color: #f7f5e7;
+	font-size: 24px;
+	font-style: italic;
+	font-weight: 300;
+	padding-bottom: 30px;
+	padding-top: 40px;
+	position: relative;
+}
+
+.format-status .entry-content2 p:first-child:before {
+	background-color: rgba(0, 0, 0, 0.65);
+	content: "";
+	height: 3px;
+	margin-top: 13px;
+	position: absolute;
+	left: 4px;
+	width: 13px;
+}
+
+.sidebar .format-status .entry-content2 > p:first-child:before {
+	left: 64px;
+}
+
+.format-status .entry-content2 p:last-child {
+	margin-bottom: 0;
+}
+
+.format-video .entry-content2 a,
+.format-video .entry-meta a,
+.format-video .entry-content2 a:hover {
+	color: #fbfaf3;
+}
+
+.attachment .entry-content2 {
+	background-color: #fff;
+	max-width: 100%;
+	padding: 40px 0;
+}
+
+
+.attachment .entry-content2 .mejs-audio {
+	max-width: 400px;
+	margin: 0 auto;
+}
+
+.attachment .entry-content2 .wp-video {
+	margin: 0 auto;
+}
+
+.attachment .entry-content2 .mejs-container {
+	margin-bottom: 24px;
+}
+
+
+
+
+
+
+
+@media (max-width: 1069px) {
+
+	.attachment .entry-content2, {
+		padding-left: 20px;
+		padding-right: 20px;
+	}
+}
+
+@media (max-width: 999px) {
+
+	.sidebar .entry-content2 {
+		max-width: 604px;
+		padding-left: 0;
+		padding-right: 0;
+	}
+
+	.attachment .entry-content2 {
+		max-width: 100%;
+		padding: 40px 0;
+	}
+
+	.format-status .entry-content2 {
+		padding-top: 40px;
+	}
+
+	.sidebar .format-status .entry-content2 {
+		padding-left: 35px;
+	}
+
+	.sidebar .format-status .entry-content2:before {
+		left: 10px;
+	}
+
+	.sidebar .format-status .entry-content2 p:first-child:before {
+		left: 4px;
+	}
+}
+
+/* Collapse oversized image and pulled images after iPad breakpoint. */
+@media (max-width: 767px) {
+
+	.entry-content2 img.alignleft,
+	.entry-content2 .wp-caption.alignleft {
+		margin-left: 0;
+	}
+
+	.entry-content2 img.alignright,
+	.entry-content2 .wp-caption.alignright {
+		margin-right: 0;
+	}
+}
+
+@media (max-width: 643px) {
+	#content .entry-content2 {
+		padding-left: 20px;
+		padding-right: 20px;
+	}
+
+	#content .format-status .entry-content2 {
+		padding-left: 35px;
+	}
+
+	.format-status .entry-content2 {
+		font-size: 18px;
+	}
+
+	.format-audio .entry-content2:before {
+		display: none;
+	}
+}
+
+/* Retina-specific styles. */
+@media print,
+	(-o-min-device-pixel-ratio: 5/4),
+	(-webkit-min-device-pixel-ratio: 1.25),
+	(min-resolution: 120dpi) {
+
+	.format-status .entry-content2:before {
+		background-image: url(images/dotted-line-2x.png);
+	}
+}
+
+@media print {
+	.entry-content2 {
+		margin: 0;
+		width: 100%;
+	}
+	.entry-content2 img.alignleft,
+	.entry-content2 .wp-caption.alignleft {
+		margin-left: 0;
+	}
+
+	.entry-content2 img.alignright,
+	.entry-content2 .wp-caption.alignright {
+		margin-right: 0;
+	}
+
+	.format-image .entry-content2 .size-full {
+		margin: 0;
+	}	
+}
+
+.column1{
+	width:40%;
+	margin-left: 5%;
+	margin-right: 5%;
+	float: left;
+}
+.column2{
+	width:40%;
+	margin-left: 5%;
+	margin-right: 5%;
+	float: right;
+}
+
+.column1 img, .column2 img{
+	border-color: #B69959 !important;
+	border-width: 3px;
+	border-style: solid;
+	max-width: 100%;
+}
+
+.entry-content2 h4{
+	color: #B69959;
+	font-size: 24px;
+	clear: both;
+	font-family: Bitter, Georgia, serif;
+	line-height: 1.3;
+}
+
+.entry-content2 img{
+	max-width: 100%;
+}
+
 
 
 

@@ -9,6 +9,7 @@
  * @package WordPress
  * @subpackage Twenty_Thirteen
  * @since Twenty Thirteen 1.0
+ * @Template Name: Promotion 2-column
  */
 
 get_header(); ?>
@@ -30,11 +31,15 @@ get_header(); ?>
 						<h1 class="entry-title"><?php //the_title(); ?></h1>
 					</header><!-- .entry-header -->
 
-					<div class="entry-content">
-					<div class="1column">
-						<?php the_content(); ?>
+					<!-- PLEASE NOTE, THIS IS VITAL TO USING THE TWO GRID LAYOUT: -->
+					<!-- You must use <column> tags, this is what the script uses to divide segments of the content -->
+					<!-- everytime you use <column> it will put the following content into the opposite column -->
+					<!-- so the third time you use <column> that content will be back in column 1 -->
+
+					<div class="entry-content2">
+						<?php the_content(); ?> 
 						<?php wp_link_pages( array( 'before' => '<div class="page-links"><span class="page-links-title">' . __( 'Pages:', 'twentythirteen' ) . '</span>', 'after' => '</div>', 'link_before' => '<span>', 'link_after' => '</span>' ) ); ?>
-					</div></div><!-- .entry-content -->
+					</div><!-- .entry-content -->
 
 					<footer class="entry-meta">
 						<?php edit_post_link( __( 'Edit', 'twentythirteen' ), '<span class="edit-link">', '</span>' ); ?>
